@@ -1,0 +1,10 @@
+/xdebug/*
+/xdebug/
+/error.log
+*.gz
+/vendor/
+/database/
+database/app.db
+*.log
+/.vscode/
+/error/

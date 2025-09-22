@@ -1,0 +1,18 @@
+{
+    "name": "tbwcjw/faucet",
+    "description": "DUCO coin faucet",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {"Faucet\\": "src/"}
+    },
+    "authors": [
+        {
+            "name": "tbwcjw",
+            "email": "me@tbwcjw.online"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "^2.1"
+    }
+}
